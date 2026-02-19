@@ -3,11 +3,13 @@ Healthcare Data Analysis project using Excel including data cleaning,feature eng
 
 📌 Project Overview
 This project analyzes a healthcare dataset containing patient records, billing details, medical conditions, and hospital information.
+
 🛠 Tools Used
-Microsoft Excel
-Pivot Tables
-Data Cleaning Functions (TRIM, UPPER, IF, DATEDIF)
-📊 Data Cleaning Steps
+-Microsoft Excel
+-Pivot Tables
+-Data Cleaning Functions (TRIM, UPPER, IF, DATEDIF)
+
+📊 Data Cleaning Steps:
 -Removed duplicates
 -Standardized text values
 -Formatted date columns
